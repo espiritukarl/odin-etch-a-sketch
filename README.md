@@ -19,4 +19,4 @@ Live Preview link can be found [here] (https://www.espiritukarl.github.io/odin-e
 - ~~Reset button~~
 
 ## Screenshot of Project Etch a Sketch
-![alt text]()
+![Screenshot](https://github.com/espiritukarl/odin-etch-a-sketch/blob/main/ksnip_20220214-165556.png)
